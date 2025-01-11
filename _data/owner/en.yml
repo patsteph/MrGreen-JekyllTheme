@@ -48,10 +48,10 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/patsteph"
+  - github: "patsteph"
   - email: "stephens.patrick.j@gmail.com"
-  - linkedin: "https://www.linkedin.com/in/patrickjstephens/"
-  - twitter: "https://www.x.com/stephenscisco"
+  - linkedin: "patrickjstephens/"
+  - twitter: "stephenscisco"
   - bluesky: "https://bsky.app/profile/stephenspatrickj.bsky.social"
   #- mastodon: ""
   #- instagram: ""
